@@ -11,4 +11,4 @@ This is the homepage for the Red Dead Redemption 2 Guide(s). The list below has 
 - [Game Length](rdr2_gamelength.md)
 - [System Reqs](rdr2_system.md)
 
-### [⬅️ Home]()
+### [⬅️ Home](https://flvffywvffy.github.io)
