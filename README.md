@@ -1,6 +1,6 @@
-# Minimal Theme by OrderedList
+# Guides:
 
-[Demo the Theme](http://orderedlist.github.com/minimal/)
+1. [Coming Soon](README.md)
 
 This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
 
