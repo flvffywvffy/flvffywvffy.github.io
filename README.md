@@ -2,4 +2,4 @@
 
 ## Guides:
 
-- #### [Coming Soon](README.md)
+- #### [Red Dead Redemption 2](reddead2.md)
