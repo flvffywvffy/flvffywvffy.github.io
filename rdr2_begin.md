@@ -6,3 +6,5 @@
 - **Search the enemies' bodies and all explored locations.** The game offers a lot of valuable loot. Apart from cash and ammo, you can find e.g. consumable items, animal trophies or treasures you can sell.
 - **Remember to regularly clean the weapons you use often** - to do so, you need a special oil. This will reduce the risk of the weapon jamming during combat, and allow you to restore its stats to their initial (maximum) value.
 - **You don't have to use the same horse throughout the whole game.** RDR2 allows you to buy and tame new mount, which aside from a different coat color may also have different statistics (e.g. increased stamina).
+
+[⬅️ Back](history.back())
